@@ -1,12 +1,12 @@
 :root {
     --text-color: #2E073F;
     --card-front-color: #7A1CAC;
-    --card-back-color: #AD49E1;
+    --card-back-color: #3f095c;
     --rodapé-color: #EBD3F8; 
 }
 
 body {
-    background: url('img/leticia.');
+    background: url('img/flor\ roxa');
     font-family: Bai Jamjuree;
 }
 
